@@ -1,0 +1,55 @@
+   a{
+    background: black;
+    color: white;
+    }
+
+img {
+    width: 830px;
+    height: auto;
+}
+img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,
+    -50%);
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+    overflow: hidden;
+}
+
+#stelios {
+    width:30%;
+    height:auto;
+    position:absolute;
+    top: 72%;
+    left: 85%;
+}
+
+#ntbk{
+    display:none;
+    width:10%;
+    height:auto;
+    position:absolute;
+    top: 75%;
+    left: 77%;
+}
+
+.branches{
+    width:72%;
+    height:auto;
+    position:absolute;
+    top: 62.5%;
+    left: 64.5%;
+}
+
+
+.branches2{
+    width:72%;
+    height:auto;
+    position:absolute;
+    top: 62.5%;
+    left: 36%;
+}
